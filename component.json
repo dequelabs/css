@@ -1,14 +1,14 @@
 {
   "name": "css",
-  "repo": "ianstormtaylor/css",
+  "repo": "dequelabs/css",
   "license": "MIT",
   "version": "0.2.0",
   "description": "Simple CSS manipulation.",
   "keywords": ["css", "style", "computed"],
   "dependencies": {
-    "component/type": "*",
-    "ianstormtaylor/to-camel-case": "*",
-    "jkroso/computed-style": "*"
+    "component/type": "1.0.0",
+    "ianstormtaylor/to-camel-case": "0.2.1",
+    "jkroso/computed-style": "0.1.0"
   },
   "development": {
     "component/assert": "*"
